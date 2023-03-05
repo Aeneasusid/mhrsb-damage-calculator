@@ -1,13 +1,11 @@
 {
-  "main.css": "/mhrsb-damage-calculator/static/css/main.9dc339ba.chunk.css",
-  "main.js": "/mhrsb-damage-calculator/static/js/main.59209960.chunk.js",
-  "main.js.map": "/mhrsb-damage-calculator/static/js/main.59209960.chunk.js.map",
-  "static/js/1.8654e7e8.chunk.js": "/mhrsb-damage-calculator/static/js/1.8654e7e8.chunk.js",
-  "static/js/1.8654e7e8.chunk.js.map": "/mhrsb-damage-calculator/static/js/1.8654e7e8.chunk.js.map",
+  "main.js": "/mhrsb-damage-calculator/static/js/main.255450c0.chunk.js",
+  "main.js.map": "/mhrsb-damage-calculator/static/js/main.255450c0.chunk.js.map",
+  "static/js/1.951c138a.chunk.js": "/mhrsb-damage-calculator/static/js/1.951c138a.chunk.js",
+  "static/js/1.951c138a.chunk.js.map": "/mhrsb-damage-calculator/static/js/1.951c138a.chunk.js.map",
   "runtime~main.js": "/mhrsb-damage-calculator/static/js/runtime~main.2313dfe6.js",
   "runtime~main.js.map": "/mhrsb-damage-calculator/static/js/runtime~main.2313dfe6.js.map",
-  "static/css/main.9dc339ba.chunk.css.map": "/mhrsb-damage-calculator/static/css/main.9dc339ba.chunk.css.map",
   "index.html": "/mhrsb-damage-calculator/index.html",
-  "precache-manifest.1a3872b3b8eeee82a45a7b71c9d31d50.js": "/mhrsb-damage-calculator/precache-manifest.1a3872b3b8eeee82a45a7b71c9d31d50.js",
+  "precache-manifest.27390678724464d5d4c2b3f8e5419062.js": "/mhrsb-damage-calculator/precache-manifest.27390678724464d5d4c2b3f8e5419062.js",
   "service-worker.js": "/mhrsb-damage-calculator/service-worker.js"
 }

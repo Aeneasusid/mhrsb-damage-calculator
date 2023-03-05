@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mhrsb-damage-calculator/precache-manifest.1a3872b3b8eeee82a45a7b71c9d31d50.js"
+  "/mhrsb-damage-calculator/precache-manifest.27390678724464d5d4c2b3f8e5419062.js"
 );
 
 workbox.clientsClaim();
